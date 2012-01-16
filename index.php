@@ -1,1 +1,1 @@
-<?php // uhmmm... ?>
+<?php // index file ?>
